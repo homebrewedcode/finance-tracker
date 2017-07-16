@@ -4,5 +4,5 @@ App to track stocks.  Working through this tutuorial:
 https://www.udemy.com/the-complete-ruby-on-rails-developer-course
 
 Heroku Link:
-To follow
+https://finance-tracker-homebrewedcode.herokuapp.com/
 
